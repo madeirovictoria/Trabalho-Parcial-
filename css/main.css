@@ -1,0 +1,124 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+ul {
+    padding: 0px!important;
+}
+.menu-principal {
+    width: 100%;
+    background-color: rgb(109, 250, 119);
+    height: 60px;
+}
+main, content {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+.logo {
+    float: left;
+    padding: 0px;
+    width: 70%;
+}
+.header-2 {
+    background-color: white;
+    width: 980px;
+    margin: 0 auto;
+    padding: 16px;
+}
+.menu-urls {
+    height: 80px; 
+    border-bottom: 3px solid white;  
+}
+
+.menu ul li{
+    display: inline-block;
+    color: #8b8b8b;
+    margin-left: 15px;
+    height: 40px;
+
+}
+.menu ul li:hover{
+    border-bottom: 3px solid rgb(109, 250, 119);
+}
+.menu ul li a:hover {
+     color: rgb(109, 250, 119);
+}
+.menu ul li a{
+    color: #8b8b8b;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.menu {
+    width: 70%;
+    float: right;
+}
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+.imagem-principal{
+    display: block;
+    margin-left: 280px;
+    margin-right: auto;
+}
+.texto-destaque h1 {
+    text-align: center;
+    color: black;
+    background-color: rgb(109, 250, 119);
+}
+.texto-destaque p {
+    color: black;
+    background-color: rgb(109, 250, 119);
+}
+.texto-sobre {
+    text-align: center;
+}
+.imagem-3{
+    width: 480px;
+    height: 100px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    top: 209px;
+}
+.texto-informativo-1 p{
+    background-color: rgb(109, 250, 119);
+}
+.texto-sobre2 {
+    text-align: center;
+}
+.imagem-5 {
+    width: 400px;
+    height: 100px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    top: 750px;
+
+}
+.texto-informativo-2{
+    text-align: center;
+}
+.imagem-7 {
+    width: 400px;
+    height: 100px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    top: 1200px;
+}
+.texto-informativo-3 {
+    text-align: center;
+}
+.contato {
+    width: 100%;  
+    background-color: rgb(109, 250, 119);
+    height: 200%;
+}
+.contato {
+    text-align: center;
+}
